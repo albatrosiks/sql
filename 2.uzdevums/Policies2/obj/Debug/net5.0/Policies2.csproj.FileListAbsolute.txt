@@ -1,0 +1,16 @@
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.exe
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.deps.json
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.runtimeconfig.json
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.runtimeconfig.dev.json
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.dll
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\ref\Policies2.dll
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\bin\Debug\net5.0\Policies2.pdb
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.csproj.AssemblyReference.cache
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.AssemblyInfoInputs.cache
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.AssemblyInfo.cs
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.csproj.CoreCompileInputs.cache
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.dll
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\ref\Policies2.dll
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.pdb
+C:\Users\albat\OneDrive\Desktop\AA.PRAKSES.UZDEVUMI\2.uzdevums\Policies2\obj\Debug\net5.0\Policies2.genruntimeconfig.cache
